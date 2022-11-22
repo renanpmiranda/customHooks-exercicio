@@ -1,0 +1,12 @@
+.Item{
+    display: flex;
+}
+
+.quantidade{
+    display: flex;
+    margin: 0 auto;      
+}
+
+.texto{
+    margin-right: 32px;
+}
